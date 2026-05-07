@@ -24,3 +24,9 @@ An interactive, web-based dashboard built with **Streamlit** and **Pandas** to t
    ```bash
    git clone [https://github.com/Dheeraj1225/ipl-playoffs.git](https://github.com/Dheeraj1225/ipl-playoffs.git)
    cd ipl-playoffs
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run predict.py
